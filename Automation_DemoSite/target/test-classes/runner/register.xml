@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="register">
+
+    <test name="com.wipro.testcases Registration">
+
+        <classes>
+
+            <class name="com.wipro.pages.RegistrationPage" />
+
+        </classes>
+
+    </test>
+
+</suite>
